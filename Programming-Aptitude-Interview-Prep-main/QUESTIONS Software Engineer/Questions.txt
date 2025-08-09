@@ -1,0 +1,93 @@
+Position Summary:
+Software developers design programs across devices ranging from cell phones to televisions. Software can be developed in many forms, including games, applications,
+or software programs. 
+Software developers are in high demand due to the prevalence of software across all industries. 
+There are many positions available as a software developer which can range from modifying code in individual programs to writing entirely new software systems.
+ 
+ Q1) Can you describe the software development process you use?
+Ans :- Explanation: This is an example of an opening or general question. 
+ The interviewer will ask this type of question to begin a conversation, get you talking, find out a little bit more about you, and collect information 
+ they can use for subsequent questions.
+Example: “The software development process I use is the same one I learned early in my career and is very typical in the industry. 
+ It begins with a requirement analysis which leads to the specifications and software architecture. 
+ Once they are completed, I move on to development, implementation, testing, and documentation. 
+ After this is done and the software is fully developed, my attention turns to training and support issues as well as ongoing maintenance and upgrades.”
+
+Q2) In your opinion, what is the difference between computer software and a computer program?
+Ans :- Explanation: An interviewer will ask this type of question to begin to explore your knowledge, skills, experience, and qualifications for the job. 
+ Knowing the distinction between these two standard terms is not that difficult but will indicate you are a viable candidate and convince the interviewer to 
+ proceed with the interview.
+Example: “Many people confuse these two terms. The way I define them is that a computer program is a set of code that executes specific tasks. 
+ Computer software, on the other hand, is an application that performs a function for the end-user. Computer software contains computer programs. 
+ Computer software is more user-centric, whereas computer programs are more machine-centric.”
+
+Q3) What types of development projects have you worked on recently?
+Ans :- Explanation: The reason an interviewer will ask this question is to determine if you’ve recently done the type of work for which they are interviewing you. 
+ During the interview, your answers to an interviewer’s questions should address the needs of the employer. These are typically defined in the job posting. 
+ You may also be able to determine these during your pre-interview research about the company, its products, and practices.
+Example :- “Most recently, I have been working on OLTP applications. Since most of my career has been in the financial industry,   
+ I began specializing in this type of programming. Areas I focus on are concurrency and atomicity. I have developed several sets of code around these functions 
+ using a variety of different programming languages.”
+ 
+Q4) Which design patterns do you use, and in what situations do you use them?
+ Ans :- Explanation: This is an operational question. Interviewers ask operational questions to determine how you go about completing the tasks required by this role. 
+  Operational questions are best responded to succinctly and directly with little embellishment. Additionally, you should always expect follow-up questions 
+  when an interviewer is asking about a specific task.
+ Example :- “During my software development career, I’ve tried many different design patterns. These include Singleton, MVC, and Template. 
+  However, the one I prefer and use most often is Iterator. This helps me code in an organized fashion and reduces the amount of time to develop the software. 
+  It also results in fewer errors and less debugging.”
+  
+  // Expect follow up questions like what is MVC, Singleton and template.
+  Q) Explain MVC in detail
+  A model can be defined as the data that will be used by the program. Commonly used examples of models in MVC are the database, a simple object holding data (such as any     multimedia file or the character of a game), a file, etc.
+  A view is a way of displaying objects (user interfaces) within an application. This is the particular vertical through which end users will communicate.
+  A controller is the third vertical which is responsible for updating both models and views. It accepts input from users as well as performs the equivalent update. In other words, it is the controller which is responsible for responding to user actions.
+  
+Q5) What was the most challenging software development problem you have worked on, and how did it turn out?
+ Ans :- Explanation: An interviewer will ask this question to gain an understanding of the scope of your experience and the type of projects you have worked on in the past. 
+  The query is in the form of a behavioral question. You can respond to behavioral questions using the STAR framework. 
+  State the Situation, define the Task you need to complete, discuss the Action you took, then describe the Results you attained.
+ Example :- “The most challenging software project I’ve worked on recently involved an end-user application for managing team sports. 
+  The challenge was that end-users had to have secure access to their own information without the ability to alter team or league data. 
+  I had to develop the application on a short timeline and deploy it into a real-life scenario without a great deal of testing. 
+  It also had to meet a price point which the market would accept. Recognizing that I did not have all the skills and experience necessary for this, I recruited 
+  some additional developers, and we collaborated on the project. Together we were able to produce the software per the schedule and on budget.  
+  This taught me to recognize my shortcomings and bring in additional resources when needed.”
+  
+ Q6) Tell me about the software development methodology you prefer?
+ Ans :- Explanation: By asking this question, the interviewer is trying to determine if you are a good fit for their organization. 
+  Software developers can choose from a lot of different methodologies, but when working on a team, they all need to use the same methodology. 
+  Stating which methodology you use should be based on your pre-interview research. Your methodology should align with the one the company currently uses.
+ Example: “The methodology I use most and prefer is Agile. The reason I like this iterative framework is there are daily stand-ups in which the team gets together 
+  to discuss the day’s development goals and any issues we’ve encountered. The other reason I prefer to use Agile methodology is because errors are 
+  identified and corrected at each stage of the process. This results in better quality software and less debugging at the end of the project.”
+  
+Q7) What QA process have you worked with in the past?
+Ans :- Explanation: This is another operational question in which the interviewer is trying to determine the type of quality control systems you have worked with. They are looking to confirm that your processes are similar to the ones they use. Your experience doesn’t have to be an exact match, but you should be able to transition to their process as quickly as possible.
+
+Example: “Since I develop using the Agile framework, the quality control processes I use the most are the ones used within this framework. 
+I have worked with Waterfall, Just in Time, and SQA as well. I feel comfortable transitioning between QA processes, and I am confident I can easily adapt to anything you are using.”
+
+// Expect follow up questions here too
+
+Q8) How do you go about testing and finding bugs in applications you have developed?
+Explanation: This is a follow-up to the previous question. Now that you told the interviewer what QA processes you use, you should be able to describe how you go about testing and debugging software. During an interview, you should anticipate follow-up questions whenever you provide an answer to the interviewer. This is why you should keep your answers short and direct. It provides the interviewer with an opportunity to either dive deeper into the topic or move on to something new.
+Example: “When developing software, I use unit testing tools to identify errors in my code. I then go through a debugging process followed by more testing. Many people describe this process as White Box Testing. The debugging tools I use include gdb and dbx which are both public domain products. The reason I prefer these is they provide command-line interfaces that are easier for me to work with. Other tools I use include code-based tracers, profilers, and interpreters.”
+
+Q9) Can you describe what you know about object-oriented programming?
+Explanation: This is a technical question. Technical questions are meant to probe your knowledge, experience, and qualifications for the position for which you are interviewing. Technical questions are easily answered by first defining the term you are being asked about and then providing an example of how it is used in your profession.
+Example: “I use object-oriented programming quite a bit. My definition of this is that it is the type of programming in which you define the data structure and also define the types of operations which can be applied to the data. The benefit of this approach is that it helps you logically organize code around a specific parameter. It also makes code easier to be maintained and documented.”
+
+Q10) When you run into an obstacle during a software development project, how do you deal with it?
+Explanation: This is another operational question in which the interviewer is trying to determine the steps you take when you run into an obstacle or setback during a programming project. Some operational questions are best responded to by taking the interviewer through the process you use step by step. Again, remember to keep your answer short and to the point. The interviewer will ask a follow-up question if they need additional information.
+Example: “I have yet to work on a software development project where there haven’t been obstacles or setbacks. The key to dealing with them is to not get discouraged or distracted. I continue to focus on the task at hand and look for solutions to the obstacle I’ve encountered.  I utilize the collective knowledge of my entire team to help solve problems. When that doesn’t work, I turn to my programming resource guides, online resources, and other reference materials I can use to determine the best way to overcome the problem.”
+
+Additional Software Developer Interview Questions
+How can an application be tested apart from its testing functionality?
+When do you use polymorphism?
+Are you familiar with cloud systems?
+What would you do if a manager demanded delivery of software in an impossible deadline?
+What are some things you may consider while creating a database?
+ 
+   
+  
